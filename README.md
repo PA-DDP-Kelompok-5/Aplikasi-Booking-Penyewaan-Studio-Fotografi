@@ -12,9 +12,13 @@ Irvan Alif (071)
 Pada tampilan awal ini terdapat 3 opsi seperti yang ada pada gambar diatas. Opsi pertama ditujukan kepada user yang belum memiliki akun sebelumnya agar bisa mendaftar, opsi kedua ditujukan kepada yang telah memiliki akun untuk melakukan login dan siap memakai program dan opsi ketiga ditujukan apabila ingin keluar dari program.
 
 ![image](https://github.com/user-attachments/assets/2226aaf5-6987-489d-9984-27621f11ef7a)
+
+
 Opsi registrasi ditujukan kepada user yang belum memiliki akun sebelumnya. Untuk melakukan registrasi sendiri user akan diminta untuk memasukkan Username dan password. Setelah memasukkan data yang diminta, maka user akan di kembalikan ke menu utama.
 
 ![image](https://github.com/user-attachments/assets/fd53cf3f-a380-483e-8bb2-98b2099ada92)
+
+
 Untuk login sebagai user, kita akan diminta untuk memasukkan username dan juga password yang sesuai dengan yang telah kita buat sebelumnya dan kita ada limit untuk 3x percobaan jika kita salah semua maka akan otomatis keluar dari sistem
 
 # Menu user
